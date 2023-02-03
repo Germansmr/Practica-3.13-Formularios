@@ -1,0 +1,119 @@
+p.opciones{
+    color: grey;
+}
+
+input.date{
+    width: 250px;
+    height: 30px;
+}
+
+input.documento{
+    width: 250px;
+    height: 30px;
+}
+
+input.enviar{
+    width: 250px;
+    height: 30px;
+    color: white;
+    background-color: rgb(255, 115, 0);
+}
+
+input.nombre{
+    width: 450px;
+    height: 30px;
+}
+
+input.apellido1{
+    width: 225px;
+    height: 30px;
+}
+
+input.apellido2{
+    width: 225px;
+    height: 30px;
+}
+
+select.documento{
+    width: 230px;
+    height: 35px;
+    color: grey;
+}
+
+input.n_documento{
+    width: 225px;
+    height: 30px;
+}
+
+input.movil{
+    width: 225px;
+    height: 30px;
+}
+
+input.gmail{
+    width: 225px;
+    height: 30px;
+}
+
+h2.titulo{
+    text-align: center;
+}
+
+p.texto{
+    text-align: center;
+}
+
+input.contraseña{
+    width: 225px;
+    height: 30px;
+}
+
+input.contraseña1{
+    width: 225px;
+    height: 30px;
+}
+
+input.telefono{
+    width: 225px;
+    height: 30px;
+}
+
+input.email{
+    width: 225px;
+    height: 30px;
+}
+
+p.politicas{
+    text-align: center;
+}
+
+p.contraseña{
+    text-align: center;
+}
+
+p.contraseña1{
+    text-align: center;
+}
+
+p.telefono{
+    text-align: center;
+}
+
+p.email{
+    text-align: center;
+}
+
+p.notificaciones{
+    text-align: center;
+}
+
+input.cuenta{
+    background-color: rgb(95, 184, 35);
+    color: white;
+    width: 225px;
+    height: 35px;
+}
+
+p.cuenta{
+    text-align: center;
+}
